@@ -3,7 +3,7 @@
 // CSS: https://minddo-software.github.io/source/style.css
 // AUTHOR: Laylah Rain
 // YEAR: 23 de noviembre de 2021
-// DESCRIPTION: Introducción al blog
+// DESCRIPTION: Un poco sobre mí
 
 !![Título](source/title.jpg)(100%)
 
