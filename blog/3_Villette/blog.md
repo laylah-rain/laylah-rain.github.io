@@ -32,20 +32,33 @@ Se marca en negrita los mejores capítulos.
 
 # Ventajas
 
+- Ese mundo entre la cordura y la locura que hace tan real, como el momento en que se desmayó y reapareció su vieja vida. 
+
+- Charlotte siempre usa poesía diversa en cada parrafo para ayudar a crear una ambientación pero su esfuerzo queda prontoo en el olvido. Sin embargo, como creó poesía con el "duendecillo" Y se hizo dueña de la analogía para reusarla después, para hacerla parte del plot de la historia y hacer la poesía eterna. 
+
 - Como establece una ambientación:
 
-    “Yo, Lucy Snowe, me declaro inocente de esa maldición, una imaginación encendida y desbordante, pero siempre que abría una puerta y la encontraba sola en un rincón, con la cabeza apoyada en su mano diminuta, tenía la sensación de que aquel cuarto no estaba habitado sino embrujado por algún fantasma. Y cuando en las noches de luna me despertaba y contemplaba su figura, destacando en medio de la oscuridad con su camisón blanco, arrodillada y erguida en la cama, rezando como una ferviente católica o metodista —al igual que una fanática precoz o una santa prematura—, ni siquiera sé qué pensamientos acudían a mi cabeza, pero corrían el riesgo de ser tan poco racionales y sensatos como los de la niña.”
+    - “Yo, Lucy Snowe, me declaro inocente de esa maldición, una imaginación encendida y desbordante, pero siempre que abría una puerta y la encontraba sola en un rincón, con la cabeza apoyada en su mano diminuta, tenía la sensación de que aquel cuarto no estaba habitado sino embrujado por algún fantasma. Y cuando en las noches de luna me despertaba y contemplaba su figura, destacando en medio de la oscuridad con su camisón blanco, arrodillada y erguida en la cama, rezando como una ferviente católica o metodista —al igual que una fanática precoz o una santa prematura—, ni siquiera sé qué pensamientos acudían a mi cabeza, pero corrían el riesgo de ser tan poco racionales y sensatos como los de la niña.”
 
+    - “El viento azotaba las ventanas: no había dejado de ulular en todo el día. Pero, al oscurecer, adquirió un tono nuevo, un acento agudo y penetrante, casi perceptible para el oído. Una queja desconsolada y lastimera, crispante para los nervios, vibraba en cada nueva ráfaga. [...] Alrededor de la medianoche, la tormenta amainó, y media hora más tarde reinaba un silencio sepulcral. El fuego, convertido en rescoldos, se avivó con intensidad. Noté un cambió en el aire y agucé los sentidos. Alcé persiana y cortina para mirar por la ventana, y vi en las estrellas el acerado brillo de una intensa helada.”
 
-    “El viento azotaba las ventanas: no había dejado de ulular en todo el día. Pero, al oscurecer, adquirió un tono nuevo, un acento agudo y penetrante, casi perceptible para el oído. Una queja desconsolada y lastimera, crispante para los nervios, vibraba en cada nueva ráfaga. [...] Alrededor de la medianoche, la tormenta amainó, y media hora más tarde reinaba un silencio sepulcral. El fuego, convertido en rescoldos, se avivó con intensidad. Noté un cambió en el aire y agucé los sentidos. Alcé persiana y cortina para mirar por la ventana, y vi en las estrellas el acerado brillo de una intensa helada.”
+    - “Allí estaba: pude verlo, pero debía de tener los ojos llenos de lágrimas, pues mi visión era muy borrosa. Divisé el caballo; lo oí piafar… y finalmente distinguí una masa oscura; entonces resonó un clamor. ¿Era un caballo u otra cosa extrañamente lúgubre lo que avanzaba a rastras por el césped? ¿Cómo dar nombre a lo que la luna iluminaba ante mis ojos? ¿Cómo expresar el sentimiento que aquello despertaba en mí? [...] Pero yo estaba arrodillada en la nieve, al lado de algo que yacía allí, y que yo había visto arrastrarse por el suelo… algo que suspiró y gimió contra mi pecho cuando lo levanté y lo atraje hacia mí. No estaba muerto; no había perdido el conocimiento.”
 
-    “Allí estaba: pude verlo, pero debía de tener los ojos llenos de lágrimas, pues mi visión era muy borrosa. Divisé el caballo; lo oí piafar… y finalmente distinguí una masa oscura; entonces resonó un clamor. ¿Era un caballo u otra cosa extrañamente lúgubre lo que avanzaba a rastras por el césped? ¿Cómo dar nombre a lo que la luna iluminaba ante mis ojos? ¿Cómo expresar el sentimiento que aquello despertaba en mí? [...] Pero yo estaba arrodillada en la nieve, al lado de algo que yacía allí, y que yo había visto arrastrarse por el suelo… algo que suspiró y gimió contra mi pecho cuando lo levanté y lo atraje hacia mí. No estaba muerto; no había perdido el conocimiento.”
+    - La monja del cuarto
 
 
 # Desventajas 
 
-- Hay coincidencias: Por error termina en el instituto que buscaba. El hombre que le ayudó a en su llegada a Vilette terminó relacionado fuertemente con el instituto. 
+- Hay coincidencias: Por error termina en el instituto que buscaba. El hombre que le ayudó a en su llegada a Vilette terminó relacionado fuertemente con el instituto. John era el niño de la infancia. En el teatro encontró a los personajes de infancia. Los personajes de infancia estaban conectados con la señorita quiquillosa del instituto. 
 
 - Hay un aire de previsión que hace percibir la obra como elaborada, maquinada. ¿Por qué todos los primeros capitulos de la niña, si no eran relevantes en su momento, será porque los necesita para su esquema trámatico? 
 
 - La narradora nos quitó información importante para crear un mayor impacto. Desde el inicio lo hace al ocultar un pasado, una herramienta baja pero bien usada. El ocultar que sabía que el doctor era Graham... Eso es jugar con el lector, romper su confianza. Malo malo. 
+
+- La historia es predecible. Las conexiones de la historia moldeadas para calzar. Constantemente pensamos en la escritora en sus planes, estamos a la defensiva y no en el sentir de la histoira. No sentimos que la escritora sea honesta con nosotros, nos está manipulando pero no nos da vida a cambio. Solo la excepción de cuando Lucy pierde la carta del doctor, allí nos entrego el presente puro, duro y hermoso. 
+
+# Momentos memorables
+
+- La perdida de la carta. 
+
+- El viaje al pasado. 
