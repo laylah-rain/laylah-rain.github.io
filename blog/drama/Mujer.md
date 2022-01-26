@@ -1,0 +1,3 @@
+**16 de noviembre del 2021**
+
+La mujer no es que no piensa porque no quiere, sino que no piensa porque no le interesa. Que poca atracción se siente hacia esa vanalidad sin fé y sin amor, una verdad que te lleva y te trae al mismo punto de partida sin agregarte ni crearte. No, mejor amar sin mesura, tan real como esa fe que millones de personas han sentido por dioses inexistentes desde la vista externa pero eternas llamas en sus interiores, que crean, que destruyen, que transforman, que dan vida y presente, como las aves de la mañana que no salen en busca de la verdad salen en busca de vida y logran con su canto darnos esa vida que encuentran y les sobra. 
