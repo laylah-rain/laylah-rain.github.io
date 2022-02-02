@@ -27,7 +27,7 @@
 
 Quiero agradecerte el permitirme entrar a tu vida por este medio. Espero con este blog traer belleza a tu vida y también compartir contigo todas las herramientas de vida y de creación de arte que tenga a mi alcance.
 
-**Nota**: La imagen de portada es del estudio de fetos realizado por Leonardo da Vinci en el año 1511.
+**Nota**: La imagen de portada es un estudio de fetos realizado por Leonardo da Vinci en el año 1511.
 
 --------------END_TEXT-------------
 
