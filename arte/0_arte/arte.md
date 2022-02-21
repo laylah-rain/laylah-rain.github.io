@@ -1,13 +1,16 @@
 // LANGUAGE: es
-// TITLE: .
+// TITLE: Arte
 // CSS: https://minddo-software.github.io/source/style.css
 // AUTHOR: .
 // YEAR: .
 // DESCRIPTION: .
 
+!![Título](arte.png)(100%)
+
+
 ------------START_TEXT-------------
 
-Página principal
+En esta sección se publicará el arte diversa que vaya creando. 
 
 --------------END_TEXT-------------
 

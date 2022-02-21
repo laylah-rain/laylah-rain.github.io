@@ -1,13 +1,16 @@
 // LANGUAGE: es
-// TITLE: .
+// TITLE: Blog
 // CSS: https://minddo-software.github.io/source/style.css
 // AUTHOR: .
 // YEAR: .
 // DESCRIPTION: .
 
+!![Título](blog.png)(100%)
+
+
 ------------START_TEXT-------------
 
-Página principal
+En esta sección se publicará los blogs que se vayan creando.  
 
 --------------END_TEXT-------------
 
