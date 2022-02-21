@@ -1,16 +1,16 @@
 // LANGUAGE: es
-// TITLE: Cursos
+// TITLE: Curso
 // CSS: https://minddo-software.github.io/source/style.css
 // AUTHOR: .
 // YEAR: .
 // DESCRIPTION: .
 
-!![Título](cursos.png)(100%)
+!![Título](curso.png)(100%)
 
 
 ------------START_TEXT-------------
 
-En esta sección se publicará los cursos que vaya creando. 
+En esta sección se publicará el curso que vaya creando. 
 
 --------------END_TEXT-------------
 
