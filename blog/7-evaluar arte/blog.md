@@ -1,6 +1,6 @@
-# ¿Cómo criticar arte?
+# ¿Cómo analizar arte?
 
-No tenés idea de lo duro que fue escribir ese título. De hecho ahora que lo pienso siento culpa de que talvez se malinterprete el título y creas que voy a dar una respuesta a una pregunta tan... tan... ¿banal? ¿insensata?. Así que para dejar las cosas claras desde el inicio te digo que no hay respuesta correcta; aún así yo vivo y analizo arte todo mi día, así que apesar de no dar una respuesta absoluta algo habré de poder decir al respecto. Veamos... 
+No tenés idea de lo duro que fue escribir ese título. De hecho ahora que lo pienso siento culpa de que talvez se malinterprete el título y creas que voy a dar una respuesta a una pregunta tan... tan... ¿banal? ¿insensata?. Así que para dejar las cosas claras desde el inicio, te digo que no hay respuesta correcta; aún así yo vivo y analizo arte todo mi día, así que apesar de no dar una respuesta absoluta algo habré de poder decir al respecto. Veamos... 
 
 Hay varias puntos de enfoque a la hora de analizar arte: enfocarse en el artista, en la obra o en el espectador. Los críticos generalmente abarcan un poco de los tres mundos, sin duda siendo esa la crítica más integral, pero yo particularmente evaluo el arte poniendo atención unicamente en el espectador. ¿Qué significa evaluar desde estos puntos?
 

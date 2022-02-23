@@ -10,7 +10,10 @@
 
 ------------START_TEXT-------------
 
-En esta sección se publicará los blogs que se vayan creando.  
+![Hola Mundo](https://laylahrain.com/blog/1_HolaMundo/blog.html)
+23 de noviembre de 2021
+Hola! Soy Laylah, mucho gusto en conocerte.
+
 
 --------------END_TEXT-------------
 
