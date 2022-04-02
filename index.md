@@ -1,13 +1,19 @@
 // LANGUAGE: es
-// TITLE: .
+// TITLE: Blog
 // CSS: https://minddo-software.github.io/source/style.css
 // AUTHOR: .
 // YEAR: .
 // DESCRIPTION: .
 
+!![Título](blog.png)(100%)
+
+
 ------------START_TEXT-------------
 
-Página principal
+![Hola Mundo](https://laylahrain.com/blog/1_HolaMundo/blog.html)
+23 de noviembre de 2021
+Hola! Soy Laylah, mucho gusto en conocerte.
+
 
 --------------END_TEXT-------------
 

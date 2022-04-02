@@ -1,0 +1,9 @@
+**15 de marzo de 2022**
+
+# ¿Meditación o ciencia?
+
+Mi relación con Enrique empezó en el año 2013. Después de haber tenido una relación con él por cinco años y habernos encontrado compatibles, decidí casarme con él llena de confianza, ilusión y amor: una decisión consciente. Por otra parte, en ese mismo instante, también acepté un efecto colateral que no había conscientizado: casarme con Enrique implicada mudarme de Costa Rica a Atlanta donde él estudiaba su posgrado. En palabras concretas: acepté casarme pero no había aceptado el ser inmigrante. 
+
+No dudo que para algunas personas el proceso de migración ha sido placentero, pero para mí fue un proceso de cambio de identidad doloroso. Desde entonces he sufrido de forma constante de ansiedad, depresión, obseciones, deficid atencional y un tanto más de otros transtornos mentales comunmente diagnosticados por psicologos y un tanto más de otros transtornos mentales aún no catalogados por psicologos. Creo que todos esos transtornos centrados en el 'yo' han estado presentes durante toda mi vida, porque son inherentemente humanos, pero que en mis tiempos de juventud los lograba canalizar por medio de estructuras e interacciones sociales robustas: cultura, amistades, trabajos universitarios, romances y similares. Al llegar a Atlanta y verme desculturalizada mis transtornos encontraron la tierra fertil que les hizo florecer.
+
+Si la raíz de mis transtornos son los excecivos pensamientos en el 'yo', la solución está en agregar pensamiendo de todo lo demás. ¿Cómo hacerlo? La solución correcta y simple está en involucrarme profunda y paulatinamente con la nueva ciudad y su comunidad. Lo intento, pero soy escritora y es implica un trabajo solitario. ¿Qué otras opciones tengo? 
